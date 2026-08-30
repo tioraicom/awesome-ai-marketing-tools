@@ -102,6 +102,7 @@ Media buying, creative testing, and campaign management.
 - **[Bïrch](https://bir.ch/)** — Rule-based automation across Meta, Google, and TikTok, with rules you can read and audit. `Paid` `Web`
 - **[Madgicx](https://madgicx.com/)** — Meta advertising automation with creative analysis and audience recommendations. `Paid` `Web`
 - **[Motion](https://motionapp.com/)** — Creative analytics that reports which visual elements drove performance, not just which ad won. `Paid` `Web`
+- **[NotFair](https://notfair.co/)** — Connects AI clients to Google, Meta, and X Ads for account audits and approval-gated campaign changes. `Freemium` `Web`
 - **[Opteo](https://opteo.com/)** — Surfaces specific Google Ads changes with the reasoning shown, rather than applying them silently. `Paid` `Web`
 - **[Pencil](https://www.trypencil.com/)** — Generates and predicts performance of video and static ads before spending on them. `Paid` `Web`
 - **[Smartly](https://www.smartly.io/)** — Enterprise creative and media automation across social channels at large spend levels. `Paid` `Web` `API`
