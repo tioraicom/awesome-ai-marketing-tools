@@ -67,6 +67,7 @@ Producing campaign copy and long-form content with brand context attached.
 Planning, producing, and scheduling across social channels.
 
 - **[Buffer](https://buffer.com/)** — Scheduling with idea generation and per-channel repurposing, and a free tier that still works. `Freemium` `Web` `iOS` `Android`
+- **[BulkPublish](https://www.bulkpublish.com/)** — Bulk social publishing and content automation for AI agents across channels. `Freemium` `Web` `API`
 - **[FeedHive](https://www.feedhive.com/)** — Predicts how a post will perform before it goes out, and holds it back on conditional rules. `Paid` `Web`
 - **[Hootsuite](https://www.hootsuite.com/)** — Long-established social management suite, with caption generation and listening included. `Paid` `Web` `iOS` `Android`
 - **[Later](https://later.com/)** — Visual planning for Instagram and TikTok, with a link-in-bio and influencer tooling attached. `Freemium` `Web` `iOS` `Android`
