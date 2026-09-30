@@ -209,6 +209,7 @@ Producing and repurposing video and audio for channels.
 - **[InVideo](https://invideo.io/)** — Turns a brief or an article into a finished marketing video from stock and templates. `Freemium` `Web`
 - **[Opus Clip](https://www.opus.pro/)** — Cuts long video into short clips and ranks them by predicted performance. `Freemium` `Web`
 - **[Pictory](https://pictory.ai/)** — Converts blog posts and webinars into short branded videos with captions. `Paid` `Web`
+- **[ReelWorkshop](https://reelworkshop.com/)** — Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 for TikTok/Reels/Shorts. Edit/preview free; export on Starter. `Freemium` `Web`
 - **[Runway](https://runway.com/)** — Video generation and editing tools used in production work rather than only demos. `Freemium` `Web` `API`
 - **[Synthesia](https://www.synthesia.io/)** — Avatar-presented video in many languages, widely used for training and product explainers. `Paid` `Web` `API`
 - **[Veed](https://www.veed.io/)** — Browser video editor with captions, translation, and templates aimed at social output. `Freemium` `Web`
