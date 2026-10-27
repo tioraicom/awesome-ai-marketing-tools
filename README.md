@@ -61,6 +61,7 @@ Producing campaign copy and long-form content with brand context attached.
 - **[Wordtune](https://www.wordtune.com/)** — Rewrites a line several ways, which is faster than regenerating a whole draft for tone. `Freemium` `Web` `Browser Extension`
 - **[Writer](https://writer.com/)** — Enforces a house style guide across everything a marketing team publishes, with its own models. `Paid` `Web` `API` `Browser Extension`
 - **[Writesonic](https://writesonic.com/)** — Content generation with search data and brand voice attached, aimed at publishing volume. `Freemium` `Web` `API` · [vs Jasper](https://tiorai.com/compare/writesonic-vs-jasper-ai/)
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 
 ## Social media
 
