@@ -98,6 +98,7 @@ Campaigns, lifecycle flows, and deliverability.
 Media buying, creative testing, and campaign management.
 
 - **[AdCreative.ai](https://www.adcreative.ai/)** — Generates ad creative variants and scores them against past performance data. `Paid` `Web`
+- **[AdVariq](https://advariq.com/)** — AI commercial ad creative and product marketing visual generator for DTC brands and online sellers. `Freemium` `Web`
 - **[Adzooma](https://adzooma.com/)** — Cross-network campaign management with suggested optimisations for smaller advertisers. `Freemium` `Web`
 - **[Bïrch](https://bir.ch/)** — Rule-based automation across Meta, Google, and TikTok, with rules you can read and audit. `Paid` `Web`
 - **[Madgicx](https://madgicx.com/)** — Meta advertising automation with creative analysis and audience recommendations. `Paid` `Web`
