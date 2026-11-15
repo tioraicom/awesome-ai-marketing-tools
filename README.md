@@ -194,6 +194,7 @@ Producing the visual assets a campaign needs.
 
 - **[Canva](https://www.canva.com/)** — Template-driven design with brand kits and bulk resizing, and the default for most marketing teams. `Freemium` `Web` `Windows` `macOS` `iOS` `Android`
 - **[Celtra](https://www.celtra.com/)** — Creative automation that produces thousands of sized variants from one master design. `Paid` `Web` `API`
+- **[EmptyRoom AI](https://emptyroomai.com/)** — Virtually stages real-estate listing photos in any style at $4 per room with free restages. `Paid` `Web`
 - **[Firefly](https://www.adobe.com/products/firefly.html)** — Adobe's generation tools, trained on licensed imagery, which matters for commercial use. `Freemium` `Web`
 - **[Photoroom](https://www.photoroom.com/)** — Removes backgrounds and builds product scenes, aimed at commerce catalogue imagery. `Freemium` `Web` `iOS` `Android` `API`
 - **[Pixelcut](https://www.pixelcut.ai/)** — Product photography editing on a phone, aimed at sellers without a studio. `Freemium` `Web` `iOS` `Android`
