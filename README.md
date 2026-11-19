@@ -75,6 +75,7 @@ Planning, producing, and scheduling across social channels.
 - **[Publer](https://publer.com/)** — Bulk workflows and caption generation across many accounts, priced for small teams. `Freemium` `Web` `iOS` `Android`
 - **[Sprout Social](https://sproutsocial.com/)** — Social suite with listening, sentiment analysis, and inbox triage across large account sets. `Paid` `Web` `iOS` `Android`
 - **[Typefully](https://typefully.com/)** — Drafting and scheduling for X and LinkedIn, with engagement analytics on published threads. `Freemium` `Web` `iOS`
+- **[Wavegrain](https://wavegrain.com/)** - Makes TikTok slideshows and Instagram carousels in a brand's own voice from its photos, then schedules and posts them. `Paid` `Web`
 
 *More: [AI social media tools on TiorAI](https://tiorai.com/tool-category/social-media/)*
 
