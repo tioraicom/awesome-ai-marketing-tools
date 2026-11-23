@@ -67,6 +67,8 @@ Producing campaign copy and long-form content with brand context attached.
 Planning, producing, and scheduling across social channels.
 
 - **[Buffer](https://buffer.com/)** — Scheduling with idea generation and per-channel repurposing, and a free tier that still works. `Freemium` `Web` `iOS` `Android`
+- **[Distribewt](https://distribewt.com/)** — Creates, reviews, approves, and schedules TikTok and Instagram slideshows for iOS apps from real screenshots. `Free Trial` `Web`
+
 - **[FeedHive](https://www.feedhive.com/)** — Predicts how a post will perform before it goes out, and holds it back on conditional rules. `Paid` `Web`
 - **[Hootsuite](https://www.hootsuite.com/)** — Long-established social management suite, with caption generation and listening included. `Paid` `Web` `iOS` `Android`
 - **[Later](https://later.com/)** — Visual planning for Instagram and TikTok, with a link-in-bio and influencer tooling attached. `Freemium` `Web` `iOS` `Android`
